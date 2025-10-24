@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mi Página Principal
+---
+
 # Índice general de clases
 
 Está página sírve de índice para ver la documentacíon del código fuente base de
